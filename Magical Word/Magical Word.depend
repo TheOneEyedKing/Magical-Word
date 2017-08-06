@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1502035799 source:c:\not c\work\code_blocks_projects\magical word\main.c
+	<stdio.h>
+	<string.h>
+
